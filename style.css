@@ -4,6 +4,10 @@ body {
 font-family: Roboto, sans-serif
 }
 
+*{
+    font-family: roboto, sans-serif;
+
+}
 
 .header {
     background-color: #1F2937;
@@ -73,15 +77,19 @@ button{
     justify-content: center;
 }
 
+
 .images {
     display: flex;
+    flex:1;
     justify-content: center;
-    
+    align-items: center;
+    text-align: center;
 }
 
 
-.imageone, .imagetwo, .imagethree, .imagefour{
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
+.pic{
+
+    width: auto;
+    height: 300px;
 }
+
