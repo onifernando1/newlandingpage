@@ -46,6 +46,7 @@ img {
 
 .title{
     font-size: 40px;
+    color:#F9FAF8;
 }
 
 .lefttop{
@@ -63,4 +64,10 @@ button{
     width: 70px;
     padding: 5px;
     margin-top: 15px;
+}
+
+.imageone, .imagetwo, .imagethree, .imagefour{
+    display: flex;
+    flex-direction: row;
+
 }
