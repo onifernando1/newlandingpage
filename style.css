@@ -66,8 +66,22 @@ button{
     margin-top: 15px;
 }
 
+
+
+.titletwo{
+    display: flex;
+    justify-content: center;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
 .imageone, .imagetwo, .imagethree, .imagefour{
     display: flex;
     flex-direction: row;
-
+    gap: 10px;
 }
