@@ -84,6 +84,7 @@ button{
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-size: 20px;
 }
 
 
@@ -93,3 +94,16 @@ button{
     height: 300px;
 }
 
+.testimony{
+    background-color: #E5E7EB;
+    height: 200px;
+    margin-top:50px;
+    font-size:20px;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+
+.sheila {
+    margin-top:75px;
+}
