@@ -1,12 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+body {
+font-family: Roboto, sans-serif
+}
 
 
+.header {
+    background-color: #1F2937;
+    color: #f9faf8;
+    display: flex;
+    flex:1;
+    padding:10px;
 
+}
 
-
+.logo {
+    font-size:22px;
+    margin-right: auto;
+}
 
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 50px;
+    margin-right: 250px;
 }
 
