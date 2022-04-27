@@ -96,7 +96,7 @@ button{
 
 .testimony{
     background-color: #E5E7EB;
-    height: 200px;
+    height: 300px;
     margin-top:50px;
     font-size:20px;
     display: flex;
@@ -106,4 +106,19 @@ button{
 
 .sheila {
     margin-top:75px;
+}
+
+.box{
+    display:flex;
+    flex-direction: column;
+    width: 1400px;
+    height: 200px;
+    background-color:#3882F6;
+    margin:30px;
+}
+
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
