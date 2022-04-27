@@ -111,10 +111,14 @@ button{
 .box{
     display:flex;
     flex-direction: column;
-    width: 1400px;
+    width: 800px;
     height: 200px;
     background-color:#3882F6;
     margin:30px;
+    color:#F9FAF8;
+    justify-content: center;
+    align-items: flex-start;
+    padding:35px;
 }
 
 .signup{
@@ -122,3 +126,4 @@ button{
     justify-content: center;
     align-items: center;
 }
+
